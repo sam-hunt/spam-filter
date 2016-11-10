@@ -1,0 +1,13 @@
+training iterations: 200
+
+learning rate: 1
+
+confusion matrix: 
+[[ 193.    0.]
+ [   2.  105.]]
+
+success rate: 0.993333333333
+
+false positives: 0.0
+
+false negatives: 2.0

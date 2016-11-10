@@ -1,0 +1,13 @@
+hidden nodes: 1
+
+learning rate: 0.1
+
+confusion matrix: 
+[[ 134.    0.]
+ [   1.   65.]]
+
+success rate: 0.995
+
+false positives: 0.0
+
+false negatives: 1.0

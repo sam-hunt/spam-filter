@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Compiled python modules
+.pyc
+
+# Eclipse project files
+.project
+.pydevproject
